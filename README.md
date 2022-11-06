@@ -20,7 +20,7 @@ _Note:_ Project is in extremely early stages of development!
 
 _Join the discord server:_ https://discord.gg/Gvq7mWrR
 
-### Present TODO list of :
+### Present TODO list of main features:
 - [ ] Terminal-based GUI application
 - [ ] RPG engine
 - [ ] Object generating artificial intelligence
