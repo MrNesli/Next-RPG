@@ -6,9 +6,9 @@ _Note:_ Project is in extremely early stages of development!
 
 **Next RPG** is a text-based project that aims to create game experience you have never had. Project tries to integrate modern technologies and practices. 
 
-- **Artificial inteligence** for generating infinite in-game items, objects, scenarios, quests, entities, etc.
+- **Artificial intelligence** for generating infinite in-game items, objects, scenarios, quests, entities, etc.
 
-- Project is going to use **custom engine** for text rendering and more.
+- Project is going to use **wxPython** for GUI application, and custom text rendering and more.
 
 - Relaxing background **music** for complete immersion.
 
@@ -19,3 +19,10 @@ _Note:_ Project is in extremely early stages of development!
 # Community
 
 _Join the discord server:_ https://discord.gg/Gvq7mWrR
+
+### Present TODO list of :
+- [ ] Terminal-based GUI application
+- [ ] RPG engine
+- [ ] Object generating artificial intelligence
+- [ ] Multiplayer mode
+- [ ] Project's official website
