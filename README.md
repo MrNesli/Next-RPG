@@ -8,7 +8,7 @@ _Note:_ Project is in extremely early stages of development!
 
 - **Artificial intelligence** for generating infinite in-game items, objects, scenarios, quests, entities, etc.
 
-- Project is going to use **wxPython** for GUI application, custom text rendering and more.
+- Project is going to use **PySide 6** for GUI application, custom text rendering and more.
 
 - Relaxing background **music** for complete immersion.
 
