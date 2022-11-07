@@ -18,7 +18,7 @@ _Note:_ Project is in extremely early stages of development!
 
 # Community
 
-_Join the discord server:_ https://discord.gg/Gvq7mWrR
+_You can also interact with community in our discord server:_ https://discord.gg/Gvq7mWrR
 
 ### Present TODO list of main features:
 - [ ] Terminal-based GUI application
